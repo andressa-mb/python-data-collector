@@ -16,4 +16,7 @@ Projeto para coleta de dados de API pública, armazenamento em banco SQLite e ex
 ## Como rodar
 ```bash
 pip install -r requirements.txt
-python main.py
+
+python main.py collect
+python main.py list
+python main.py clear
